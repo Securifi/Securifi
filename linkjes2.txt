@@ -10,4 +10,5 @@ https://pdf1.alldatasheet.com/datasheet-pdf/view/313218/ATMEL/ATmega328P.html
 https://www.youtube.com/watch?v=KpgTud1iQ-4&t=645s
 https://www.youtube.com/watch?v=jh0IFyKQhJU
 
+https://www.kiwi-electronics.nl/3x4-phone-style-matrix-keypad
 https://nl.aliexpress.com/item/4000060814795.html?spm=a2g0o.productlist.0.0.749e47c5aWlyMW&algo_pvid=e2cc73af-e472-4589-a207-957491f28e16&algo_expid=e2cc73af-e472-4589-a207-957491f28e16-19&btsid=0ab6fb8815822797198482124edfb9&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
