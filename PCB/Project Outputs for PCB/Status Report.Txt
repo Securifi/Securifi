@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:54:49 On 19/03/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PCB.PrjPcb]
+   Generated File[//d.docs.live.net/99256a3a2149e470/Documenten/Schooljaar 2019-2020 Bac1 E_ICT/PE/Securifi/PCB/Project Outputs for PCB/Bill of Materials/[No Variations].xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:54:57 On 19/03/2020
