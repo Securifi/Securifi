@@ -2,17 +2,6 @@
 FileName = [No Variations].GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : [No Variations].GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : [No Variations].GBP
 
@@ -27,46 +16,43 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : [No Variations].GTL
+Generating : Bottom Solder
+      File : [No Variations].GBS
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : [No Variations].GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
     D20
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
 *************************************************************
 
 *************************************************************
@@ -114,32 +100,56 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : [No Variations].GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
+Generating : Multi-Layer
+      File : [No Variations].GML
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
+    D16
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : [No Variations].GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************
@@ -162,6 +172,122 @@ Used DCodes :
     D19
     D20
     D21
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : [No Variations].GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D15
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : [No Variations].GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : [No Variations].GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : [No Variations].GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : [No Variations].GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D15
+    D19
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : [No Variations].GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
 *************************************************************
 
 *************************************************************
@@ -193,10 +319,28 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : [No Variations].GTP
+Generating : Dielectric 1
+      File : [No Variations].1
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : [No Variations].GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : [No Variations].GTL
 
     Adding Layer      : Top Layer
 
@@ -204,6 +348,8 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D16
+    D20
     D22
     D23
     D24
@@ -219,5 +365,19 @@ Used DCodes :
     D34
     D35
     D36
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
 *************************************************************
 
