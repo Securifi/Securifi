@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\elias\OneDrive\Documenten\Schooljaar 2019-2020 Bac1 E_ICT\PE\Securifi\PCB\PCB1.PcbDoc
+Date         : 21/03/2020
+Time         : 16:57:07
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 56.3274mmx87.025mm
+    Components on board, 33
+count : 2
